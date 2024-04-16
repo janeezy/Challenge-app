@@ -1,0 +1,53 @@
+body{
+	text-align: center;
+	background-color: rgb(233, 215, 207);
+	margin: 50px;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+}
+
+
+.header-text-color{
+	color:#3d5e69;
+	font-family: sans-serif;
+}
+
+.text-style1{
+	color: #f58a42;
+	font-family: serif;
+	font-weight: bold;
+	font-size: 52px;
+}
+a {
+	text-decoration: none;
+	color: rgb(38, 62, 103);
+}
+
+a:hover{
+	color: #f58a42;
+}
+.text-style2{
+	color: #5e5e5c;
+	text-align: center;
+	font-family: serif;
+	font-size: 34px;
+
+
+}
+
+.fira-sans condensed-regular-italic {
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+
+
+
+
+

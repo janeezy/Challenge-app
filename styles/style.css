@@ -1,7 +1,7 @@
 
 body{
-	text-align: center;
-	background-color: rgb(233, 215, 207);
+
+
 	margin: 50px;
 }
 
@@ -17,28 +17,21 @@ img{
 	font-family: sans-serif;
 }
 
-.text-style1{
-	color: #f58a42;
-	font-family: serif;
-	font-weight: bold;
-	font-size: 52px;
-}
+
+
+
 a {
 	text-decoration: none;
 	color: rgb(38, 62, 103);
+	font-size: x-large;
 }
 
 a:hover{
 	color: #f58a42;
 }
-.text-style2{
-	color: #5e5e5c;
-	text-align: center;
-	font-family: serif;
-	font-size: 34px;
 
 
-}
+
 
 .fira-sans condensed-regular-italic {
   font-family: "Fira Sans Condensed", sans-serif;
