@@ -1,15 +1,31 @@
+html{
+	margin: 20px auto 20px auto;
+}
+
 body{
 	text-align: center;
 	background-color: rgb(233, 215, 207);
 	margin: 50px;
 }
+.main-color{
+	border-radius: 10px;
+	background-color: #8ab998;
+	border:6px solid rgb(46, 67,48);
+	width: 100%;
 
+}
+.description
 img{
+
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
 }
 
+p{
+	font-family: '.fira-sans', sans-serif;
+	margin-bottom: 46PX;
+}
 
 .header-text-color{
 	color:#3d5e69;
@@ -17,21 +33,30 @@ img{
 }
 
 .text-style1{
-	color: #f58a42;
+	color: #994208;
 	font-family: serif;
 	font-weight: bold;
 	font-size: 52px;
 }
+a{
+	padding: 12px;
+	background-color: #f58a42;
+}
 a {
 	text-decoration: none;
-	color: rgb(38, 62, 103);
+
+}
+
+p #description
+{
+	font-size: 20px;
 }
 
 a:hover{
-	color: #f58a42;
+	color: #6e3610;
 }
 .text-style2{
-	color: #5e5e5c;
+	color: #0d0d01;
 	text-align: center;
 	font-family: serif;
 	font-size: 34px;
@@ -47,7 +72,10 @@ a:hover{
 
 
 
-
+h2{
+	color: rgb(78, 13,5);
+	font-family: 'oswaldo' 'sans-serif';
+}
 
 
 
